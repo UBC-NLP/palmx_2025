@@ -1,4 +1,4 @@
-# PalmX 2025 MCQ Evaluation
+# PalmX 2025 Shared Task MCQ Evaluation
 
 This repository contains the evaluation code and data for the [PalmX 2025 Shared Task](https://palmx.dlnlp.ai/index.html) on Benchmarking LLMs for Arabic and Islamic Culture.
 
