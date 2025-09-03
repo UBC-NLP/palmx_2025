@@ -78,8 +78,15 @@ Then it scores the log-likelihood of the next token being ` A`, ` B`, ` C`, or `
 If you use this dataset or code in your research, please cite:
 
 ```bibtex
-
-
+@misc{alwajih2025palmx2025sharedtask,
+      title={PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture}, 
+      author={Fakhraddin Alwajih and Abdellah El Mekki and Hamdy Mubarak and Majd Hawasly and Abubakr Mohamed and Muhammad Abdul-Mageed},
+      year={2025},
+      eprint={2509.02550},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.02550}, 
+}
 ```
 
 And the [Original Palm Dataset paper](https://aclanthology.org/2025.acl-long.1579/):
